@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+}
+.img{
+    background-image: url("../img/post-bg.jpg");
+    width: auto;
+    height: 769px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav{
+    width: auto;
+    height: 57px;
+}
+.box1{
+    width: 140px;
+    height: 57px;
+    float: left;
+    text-align: center;
+}
+.box1-a{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 18px;
+    font-size: 20px;
+}
+.box1-1{
+    width: 300px;
+    height: 57px;
+    display: inline-block;
+    float: right;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
+.header{
+    width: auto;
+    height: 796px;
+
+}
+.box2{
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    top: 20%;
+    color: #384e56;
+}
+h1{
+    font-size: 60px;
+}
+span{
+    font-size: 40px;
+}
+
+.main{
+    width: auto;
+    height: 1940px;
+}
+.box3{
+    width: 600px;
+    margin: 6% 27% 2%;
+}
+.box3-1 img{
+    width: 600px;
+}
+.box3-1 p{
+    font-size: 13px;
+    text-align: center;
+}
+.box3 h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    font-weight: normal;
+}
+.footer{
+    text-align: center;
+    margin: 25px 0;
+}

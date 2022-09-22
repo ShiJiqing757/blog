@@ -1,0 +1,96 @@
+body{
+    margin:0px;
+}
+.box1{
+    width: auto;
+    height: 57px;
+}
+.box1-1{
+    width: 140px;
+    height: 57px;
+    float: left;
+    text-align: center;
+}
+.box1-1-a{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 18px;
+    font-size: 20px;
+}
+.box1-2{
+    width: 300px;
+    height: 57px;
+    display: inline-block;
+    float: right;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+}
+.img{
+    background-image: url("../img/home-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.box2{
+    width: auto;
+    height: 796px;
+
+}
+.box2-1{
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    top: 20%;
+}
+h1{
+    font-size: 80px;
+}
+span{
+    font-size: 40px;
+}
+
+.box3{
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+    font-weight: normal;
+}
+.box3-1{
+    width: 140px;
+    height: 50px;
+    background: #1785b2;
+    float: right;
+    display: block;
+    padding-top: 25px;
+}
+.box3-1 a{
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
+.box4{
+    overflow: hidden;
+    clear: right;
+}
+
+.box4{
+    text-align: center;
+    margin: 25px 0;
+}

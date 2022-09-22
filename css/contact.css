@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+}
+.img{
+    background-image: url("../img/contact-bg.jpg");
+    width: auto;
+    height: 769px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav{
+    width: auto;
+    height: 57px;
+}
+.box1{
+    width: 140px;
+    height: 57px;
+    float: left;
+    text-align: center;
+}
+.box1-a{
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 18px;
+    font-size: 20px;
+}
+.box1-1{
+    width: 300px;
+    height: 57px;
+    display: inline-block;
+    float: right;
+
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+
+}
+.box1-a{
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #2d4b57;
+}
+.header{
+    width: auto;
+    height: 796px;
+
+}
+.box2{
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    top: 20%;
+    color: #384e56;
+}
+h1{
+    font-size: 60px;
+}
+span{
+    font-size: 40px;
+}
+
+.box3{
+    width: auto;
+    height: 550px;
+}
+.box3 p{
+    text-align: center;
+    margin: 60px 30px;
+    font-size: 20px;
+}
+.box3 form{
+    margin: 0 29%;
+    font-size: 20px;
+    color: #5f6d72;
+}
+input,textarea{
+    width: 520px;
+    height: 30px;
+    margin: 5px 0 10px;
+    border: 0;
+    border-bottom: 1px solid #c0c0c0;
+}
+textarea{
+    width: 520px;
+    height: 100px;
+    text-align: left;
+}
+.input{
+    width: 90px;
+    height: 50px;
+    margin-top: 30px;
+    background-color: #42a2ab;
+    color: white;
+    border-style: none;
+}
+input:focus,
+textarea:focus{
+    outline:solid #d99999 1px;
+}
+.box4{
+    text-align: center;
+    margin: 25px 0;
+}
